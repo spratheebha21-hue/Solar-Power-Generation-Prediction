@@ -1,0 +1,12 @@
+# R and RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local deployment configuration and credentials
+rsconnect/
+
+# Temporary files
+*.tmp
+*.log
